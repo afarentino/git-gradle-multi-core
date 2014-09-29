@@ -1,1 +1,1 @@
-This is the core module of our Gradle project.
+This is the core module of our IntelliJ multi-root Git project.  It is in it's own Git repository.
